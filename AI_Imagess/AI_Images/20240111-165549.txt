@@ -1,0 +1,6 @@
+Prompt   : Create a vivid and enchanting scene featuring a captivating girl with a snake body, adorned with beautiful long hair highlighted with red streaks. Place her in the midst of a stunning water park setting, surrounded by cascading waterfalls, colorful slides, and vibrant pools. Enhance her allure by describing her wearing long earrings that complement her otherworldly charm
+Negative : Incorporate an element of intrigue or mystery by introducing a contrasting, negative aspect to the enchanting scene. Perhaps reveal a subtle darkness in her eyes or hint at a hidden power that adds complexity to her character. This duality could create a captivating narrative, leaving the observer both drawn to her beauty and wary of the unknown lurking beneath the surface of this alluring water park setting
+Steps    : 40
+Guidance : 7.0
+Seed     : 549007
+Output   : 20240111-165549.png

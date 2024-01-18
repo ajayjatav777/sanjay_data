@@ -1,0 +1,6 @@
+Prompt   :  photorealistic vaporwave image of a lizard riding a snowboard through space
+Negative : low quality, worst quality
+Steps    : 45
+Guidance : 8.5
+Seed     : 26563
+Output   : 20240117-122959.png

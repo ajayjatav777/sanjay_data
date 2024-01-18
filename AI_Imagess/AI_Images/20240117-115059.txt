@@ -1,0 +1,6 @@
+Prompt   : masterpiece,cute frog, realistic, in a pond, 4k image, best quality
+Negative : ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, artifacts, jpeg noise, bad eyes, text
+Steps    : 40
+Guidance : 7.0
+Seed     : 907033
+Output   : 20240117-115059.png

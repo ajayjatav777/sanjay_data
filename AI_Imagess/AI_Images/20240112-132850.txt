@@ -1,0 +1,6 @@
+Prompt   : mountains and river
+Negative : ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, artifacts, jpeg noise, bad eyes, text
+Steps    : 40
+Guidance : 7.0
+Seed     : 794203
+Output   : 20240112-132850.png

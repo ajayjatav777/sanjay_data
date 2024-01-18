@@ -1,0 +1,6 @@
+Prompt   : housefly, realistic, optical zoom to eyes, realistic(4k)
+Negative : ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, artifacts, jpeg noise, bad eyes, text
+Steps    : 30
+Guidance : 7.0
+Seed     : 127252
+Output   : 20240111-123131.png

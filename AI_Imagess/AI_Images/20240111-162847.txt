@@ -1,0 +1,6 @@
+Prompt   : masterpiece, best quality indian girl,long hair, beautiful face, black hair, pale skin, full body, temple background, blue eyes, thick eyebrows, small nose, big lips, fair,loop ear rings, realistic face(4k)
+Negative : low quality, worst, quality, bad anatomy, bad composition, poor, low effort, animated,fat, , paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, ((monochrome)), ((grayscale)), bad anatomy, DeepNegative, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, cropped, poorly drawn hands, poorly drawn face, mutation, deformed, extra fingers, extra limbs, extra arms, extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed, mutated hands, polar lowres, bad body, bad proportions, gross proportions, text, error, missing fingers, missing arms, missing legs, unstructured lips
+Steps    : 40
+Guidance : 7.0
+Seed     : 696809
+Output   : 20240111-162847.png

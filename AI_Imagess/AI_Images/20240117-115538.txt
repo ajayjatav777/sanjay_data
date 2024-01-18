@@ -1,0 +1,6 @@
+Prompt   : A pikachu fine dining with a view to the Eiffel Tower
+Negative : low quality
+Steps    : 40
+Guidance : 7.0
+Seed     : 169223
+Output   : 20240117-115538.png

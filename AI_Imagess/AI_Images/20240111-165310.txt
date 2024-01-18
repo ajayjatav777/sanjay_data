@@ -1,0 +1,6 @@
+Prompt   : face, very expressive, portrait photography, world photography, soft studio lighting, intricate, beautiful, award winning, stunning, stock film, 8k, centered, amazing, impressive, awesome, highly detailed, fantastic, overwhelming, masterpiece, subject in frame
+Negative : Create a vivid and enchanting scene featuring a captivating girl with a snake body, adorned with beautiful long hair highlighted with red streaks. Place her in the midst of a stunning water park setting, surrounded by cascading waterfalls, colorful slides, and vibrant pools. Enhance her allure by describing her wearing long earrings that complement her otherworldly charm.
+Steps    : 45
+Guidance : 7.0
+Seed     : 889060
+Output   : 20240111-165310.png

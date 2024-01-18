@@ -1,0 +1,6 @@
+Prompt   : a man in the sea and sun behind the man look like a fire ball.
+Negative : dull sky,realistic 4k 
+Steps    : 15
+Guidance : 8.5
+Seed     : 122991
+Output   : 20240115-201314.png

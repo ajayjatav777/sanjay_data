@@ -1,0 +1,6 @@
+Prompt   : A serious capybara at work, wearing a suit
+Negative : low quality, 3d, photorealistic
+Steps    : 40
+Guidance : 7.0
+Seed     : 424025
+Output   : 20240117-115259.png

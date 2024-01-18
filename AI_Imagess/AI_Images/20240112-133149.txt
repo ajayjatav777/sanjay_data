@@ -1,0 +1,6 @@
+Prompt   : a girl with two pig tails, wearing black dress, background as bycycle.
+Negative : ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, artifacts, jpeg noise, bad eyes, text
+Steps    : 34
+Guidance : 4.0
+Seed     : 662721
+Output   : 20240112-133149.png

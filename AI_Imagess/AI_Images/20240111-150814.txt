@@ -1,0 +1,6 @@
+Prompt   : Streetwear-clad boy with messy black hair and electric blue highlights, skateboarding down a neon-lit city street,Elf prince with flowing silver hair and piercing green eyes, wielding a magical sword amidst ethereal ruins
+Negative : Generic school uniform boy with spiky anime hair, standing awkwardly against a plain background,Unnaturally large eyes, unrealistic hair color, and exaggerated facial features,worst quality
+Steps    : 30
+Guidance : 7.0
+Seed     : 565663
+Output   : 20240111-150814.png

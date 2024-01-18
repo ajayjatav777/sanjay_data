@@ -1,0 +1,6 @@
+Prompt   : a girl with snake body, beautiful long hair with red steaks, background as a beautiful water park, wearing long earings
+Negative : bad feet
+Steps    : 45
+Guidance : 7.0
+Seed     : 198943
+Output   : 20240111-165030.png

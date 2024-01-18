@@ -1,0 +1,6 @@
+Prompt   : a hippopotamus,realistic,4k image,best quality,masterpiece,street background
+Negative : six legs,bad quality
+Steps    : 40
+Guidance : 7.0
+Seed     : 92016
+Output   : 20240117-121000.png

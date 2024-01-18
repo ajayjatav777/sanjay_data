@@ -1,0 +1,6 @@
+Prompt   : indian girl wearing saree, long hair, beautiful face, black hair, pale skin, full body, temple background
+Negative : blur image, worst quality,bad quality
+Steps    : 40
+Guidance : 7.0
+Seed     : 708068
+Output   : 20240111-161940.png
